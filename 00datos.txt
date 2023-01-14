@@ -1,0 +1,20 @@
+Alumnos:
+Juan Francisco Vara Sánchez
+Javier García Céspedes
+Álvaro de Blas Montalvillo
+
+Mejoras:
+3.1 - Crear una página que liste todos los profesores de la asignatura.
+3.2 - Crear un formulario para añadir nuevos profesores. Este formulario solo debe mostrarse si el usuario conectado es el owner.
+4.3 - Crear un formulario para que el owner del contrato pueda matricular a nuevos alumnos.
+5.2 - Añadir algo que permita obtener un listado con las notas de un alumno en un todas las evaluaciones. Esta funcionalidad solo debe estar disponible para el propio alumno.
+5.4 - Añadir algo para que el coordinador o un profesor de la asignatura puedan obtener un listado con la notas final de todos los alumnos en la asignatura.
+6.1 - Añadir unos indicadores que informen sobre los roles del usuario: si es owner, coordinador, profesor o alumno.
+
+//Direcciones usadas:
+accounts[0]: Owner
+accounts[1]: Coordinador
+accounts[2]: Profesor 1
+accounts[3]: Profesor 2
+accounts[4]: Eva
+accounts[5]: Jose
